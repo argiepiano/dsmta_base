@@ -1,0 +1,5 @@
+name = DSMTA base module
+description = Contains functions used by other DSMTA modules
+core = 7.x
+package = DSMTA
+dependencies[] = pursuit
